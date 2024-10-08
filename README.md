@@ -1,7 +1,4 @@
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); align-items: center; gap: 5px;">
-  <img src="https://github.com/user-attachments/assets/c7a3f834-93ea-4c65-b83e-409f83098c88" alt="Bruno Herculano" style="max-width: 100%; height: auto;">
-  <p style="margin: 0;">Hello there, 👋 I’m Bruno Herculano</p>
-</div>
+# Hello there, 👋 I’m Bruno Herculano
 
 
 💻 **Full Stack Developer** specializing in **Ruby on Rails**.  
