@@ -10,13 +10,13 @@
 🎓 **Bachelor's Degree in Computer Science in Progress** at **UFJF**.  
 🌱 Currently learning and developing **web and software solutions** using **modern technologies**.
 
----
 <div align="center">
   <a href="https://github.com/Bruno-H-Terto">
-    <img height="220em" alt="Commit Stats" src="https://github-readme-stats.vercel.app/api?username=Bruno-H-Terto&show_icons=true&hide=stars&show=reviews&include_all_commits=false&count_private=true&theme=dracula"/>
+    <img height="220em" alt="Commit Stats" src="https://github-readme-stats.vercel.app/api?username=Bruno-H-Terto&show_icons=true&hide=stars&show=reviews&include_all_commits=false&count_private=true&theme=dracula&card_width=495"/>
     <img height="220em" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-H-Terto&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 </div>
+
 
 
 
