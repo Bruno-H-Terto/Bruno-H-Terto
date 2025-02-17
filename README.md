@@ -7,18 +7,8 @@
 
 ---
 
-🚀 **Skills**:  
-- Ruby on Rails  
-- JavaScript (Vue.js)  
-- HTML & CSS  
-- SQL  
-- Git & GitHub  
-- TDD  
-- VBA
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Bruno-H-Terto&show_icons=true&theme=radical)
 
-💼 **Work Experience**:  
-- Class Monitor of Analytical Geometry and Linear Systems (undergraduate) at [UFJF](https://www2.ufjf.br/ufjf/)  
-- Vocational Course Instructor in Technological Courses at [Prepara Cursos Profissionalizantes](https://www.prepara.com.br/)
 
 🌐 **Connect with me**:  
 - [LinkedIn](https://www.linkedin.com/in/bruno-herculano-83a74a1bb/)  
