@@ -23,7 +23,7 @@
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[LinkedIn-url]: https://www.linkedin.com/in/bruno-herculano-83a74a1bb/
+[LinkedIn-url]: https://www.linkedin.com/in/brunoherculano/
 [LinkedIn-badage]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [Gmail-url]: https://mailto:request.herculanoterto@gmail.com
 [Gmail-badage]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
