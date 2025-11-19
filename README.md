@@ -6,10 +6,13 @@
 [![Whatsapp][Whatsapp-badage]][Whatsapp-url]
 
 
-💻 **Full Stack Developer** specializing in **Ruby on Rails**.  
-🎓 **Bachelor's Degree in Computer Science in Progress** at **UFJF**.  
-🌱 Currently learning and developing **web and software solutions** using **modern technologies**.
-
+```python
+bruno = Developer(
+    name="Bruno Herculano",
+    profession="Backend Developer",
+    stack=["Python", "Flask", "MongoDB", "Docker", "Rails"]
+)
+```
 <div align="center">
   <a href="https://github.com/Bruno-H-Terto">
     <img height="220em" alt="Commit Stats" src="https://github-readme-stats.vercel.app/api?username=Bruno-H-Terto&show_icons=true&hide=stars&show=reviews&include_all_commits=false&count_private=true&theme=dracula&card_width=495"/>
