@@ -14,7 +14,7 @@ bruno = Developer(
 )
 ```
 
-
+![Stats](./profile/stats.svg)
 
 
 
