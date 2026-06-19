@@ -17,7 +17,6 @@ bruno = Developer(
 <div align="center">
   <a href="https://github.com/Bruno-H-Terto">
     <img height="220em" alt="Commit Stats" src="./profile/stats.svg"/>
-    <img height="220em" alt="Language Stats" src="./profile/languages.svg"/>
   </a>
 </div>
 
