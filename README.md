@@ -14,12 +14,6 @@ bruno = Developer(
 )
 ```
 
-<div align="center">
-  <a href="https://github.com/Bruno-H-Terto">
-    <img height="220em" alt="Commit Stats" src="./profile/stats.svg"/>
-  </a>
-</div>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [LinkedIn-url]: https://www.linkedin.com/in/brunoherculano/
 [LinkedIn-badage]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
